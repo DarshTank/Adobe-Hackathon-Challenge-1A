@@ -1,0 +1,97 @@
+{
+  "title": "PIGEON FORGE, TN 37863",
+  "outline": [
+    {
+      "level": "H6",
+      "text": "(NEAR DIXIE STAMPEDE ON THE PARKWAY)",
+      "page": 1,
+      "confidence": 15
+    },
+    {
+      "level": "H1",
+      "text": "----------------",
+      "page": 1,
+      "confidence": 19
+    },
+    {
+      "level": "H6",
+      "text": "3735 PARKWAY PIGEON FORGE, TN 37863",
+      "page": 1,
+      "confidence": 15
+    },
+    {
+      "level": "H6",
+      "text": "ADDRESS: TOPJUMP",
+      "page": 1,
+      "confidence": 15
+    },
+    {
+      "level": "H6",
+      "text": "CLOSED TOED SHOES AREQUIRED FOR CLIMBING PARENTS",
+      "page": 1,
+      "confidence": 15
+    },
+    {
+      "level": "H6",
+      "text": "HERE",
+      "page": 1,
+      "confidence": 24
+    },
+    {
+      "level": "H4",
+      "text": "HOPE",
+      "page": 1,
+      "confidence": 24
+    },
+    {
+      "level": "H6",
+      "text": "OR GUARDIANS NOT ATTENDING THE PARTY, PLEASE VISIT",
+      "page": 1,
+      "confidence": 11
+    },
+    {
+      "level": "H6",
+      "text": "RSVP:",
+      "page": 1,
+      "confidence": 26
+    },
+    {
+      "level": "H5",
+      "text": "SEE",
+      "page": 1,
+      "confidence": 24
+    },
+    {
+      "level": "H6",
+      "text": "TO FILL OUT WAIVER TOPJUMP.COM SO YOUR CHILD CAN ATTEND.",
+      "page": 1,
+      "confidence": 10
+    },
+    {
+      "level": "H2",
+      "text": "To",
+      "page": 1,
+      "confidence": 25
+    },
+    {
+      "level": "H6",
+      "text": "WWW.TOPJUMP.COM",
+      "page": 1,
+      "confidence": 11
+    },
+    {
+      "level": "H3",
+      "text": "ou",
+      "page": 1,
+      "confidence": 25
+    }
+  ],
+  "source": "content_analysis",
+  "method": "enhanced_extraction",
+  "stats": {
+    "total_spans": 32,
+    "heading_fonts_found": 19,
+    "unique_font_sizes": 18,
+    "pages_analyzed": 1
+  }
+}

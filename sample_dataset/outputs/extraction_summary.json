@@ -1,0 +1,11 @@
+{
+  "total_files": 5,
+  "successful": 5,
+  "failed": 0,
+  "total_headings_extracted": 378,
+  "methods_used": {
+    "toc_with_enhanced_title": 1,
+    "enhanced_extraction": 4
+  },
+  "processing_timestamp": "{\"timestamp\": \"now\"}"
+}

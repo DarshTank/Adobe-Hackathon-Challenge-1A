@@ -1,0 +1,169 @@
+{
+  "title": "Application form for grant of LTC advance",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "1. 2.",
+      "page": 1,
+      "confidence": 9
+    },
+    {
+      "level": "H1",
+      "text": "10. shortest route.",
+      "page": 1,
+      "confidence": 12
+    },
+    {
+      "level": "H1",
+      "text": "11.3. 4.",
+      "page": 1,
+      "confidence": 12
+    },
+    {
+      "level": "H1",
+      "text": "12.",
+      "page": 1,
+      "confidence": 12
+    },
+    {
+      "level": "H1",
+      "text": "2. Date of entering the Central Government",
+      "page": 1,
+      "confidence": 12
+    },
+    {
+      "level": "H1",
+      "text": "3.",
+      "page": 1,
+      "confidence": 12
+    },
+    {
+      "level": "H1",
+      "text": "4. Whether permanent or temporary",
+      "page": 1,
+      "confidence": 12
+    },
+    {
+      "level": "H1",
+      "text": "5. 6.",
+      "page": 1,
+      "confidence": 12
+    },
+    {
+      "level": "H1",
+      "text": "7.",
+      "page": 1,
+      "confidence": 12
+    },
+    {
+      "level": "H1",
+      "text": "Amount of advance required.Rs.",
+      "page": 1,
+      "confidence": 13
+    },
+    {
+      "level": "H1",
+      "text": "Date Signature of Government Servant.",
+      "page": 1,
+      "confidence": 14
+    },
+    {
+      "level": "H1",
+      "text": "Home Town as recorded in the Service Book",
+      "page": 1,
+      "confidence": 11
+    },
+    {
+      "level": "H1",
+      "text": "I declare that the particulars furnished above are true and correct to the best of my knowledge.  I",
+      "page": 1,
+      "confidence": 12
+    },
+    {
+      "level": "H1",
+      "text": "In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of",
+      "page": 1,
+      "confidence": 8
+    },
+    {
+      "level": "H1",
+      "text": "India, the place to be visited.9. (b) Block for which to be availed.",
+      "page": 1,
+      "confidence": 13
+    },
+    {
+      "level": "H1",
+      "text": "LTC is to be availed. (a) If the concession is to visit anywhere in",
+      "page": 1,
+      "confidence": 13
+    },
+    {
+      "level": "H1",
+      "text": "Name of the Government Servant 1. Designation",
+      "page": 1,
+      "confidence": 11
+    },
+    {
+      "level": "H1",
+      "text": "Persons in respect of whom LTC is proposed to be availed.",
+      "page": 1,
+      "confidence": 7
+    },
+    {
+      "level": "H1",
+      "text": "S.No Name Age Relationship",
+      "page": 1,
+      "confidence": 12
+    },
+    {
+      "level": "H1",
+      "text": "Service PAY + SI + NPA",
+      "page": 1,
+      "confidence": 11
+    },
+    {
+      "level": "H1",
+      "text": "Single rail fare/bus from the headquarters to home town/place of visit by",
+      "page": 1,
+      "confidence": 11
+    },
+    {
+      "level": "H1",
+      "text": "Whether wife / husband is employed and if",
+      "page": 1,
+      "confidence": 11
+    },
+    {
+      "level": "H1",
+      "text": "advance, I undertake to refund the entire advance in one lump sum.",
+      "page": 1,
+      "confidence": 7
+    },
+    {
+      "level": "H1",
+      "text": "so whether entitled to LTC Whether the concession is to be availed for",
+      "page": 1,
+      "confidence": 11
+    },
+    {
+      "level": "H1",
+      "text": "undertake to produce the tickets for the outward journey within ten days of receipt of the advance.",
+      "page": 1,
+      "confidence": 10
+    },
+    {
+      "level": "H1",
+      "text": "visiting home town and if so block for which 8.",
+      "page": 1,
+      "confidence": 13
+    }
+  ],
+  "source": "content_analysis",
+  "method": "enhanced_extraction",
+  "stats": {
+    "total_spans": 55,
+    "heading_fonts_found": 4,
+    "unique_font_sizes": 2,
+    "pages_analyzed": 1
+  }
+}

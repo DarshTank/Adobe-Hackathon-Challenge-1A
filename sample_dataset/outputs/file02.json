@@ -1,0 +1,655 @@
+{
+  "title": "Overview",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "International Software Testing Qualifications Board",
+      "page": 1,
+      "confidence": 18
+    },
+    {
+      "level": "H4",
+      "text": "Version 1.0",
+      "page": 1,
+      "confidence": 14
+    },
+    {
+      "level": "H5",
+      "text": "Agile Tester Qualifications Board",
+      "page": 2,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "International",
+      "page": 2,
+      "confidence": 7
+    },
+    {
+      "level": "H4",
+      "text": "Overview",
+      "page": 2,
+      "confidence": 18
+    },
+    {
+      "level": "H5",
+      "text": "Software Testing Foundation Level Extension –",
+      "page": 2,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "11 DEC 2013 Amended Business Outcomes and Chapters matching",
+      "page": 3,
+      "confidence": 10
+    },
+    {
+      "level": "H5",
+      "text": "18 JUNE 2013 Initial version 0.2",
+      "page": 3,
+      "confidence": 8
+    },
+    {
+      "level": "H5",
+      "text": "20 DEC 2013 Working group updates on 0.7",
+      "page": 3,
+      "confidence": 10
+    },
+    {
+      "level": "H5",
+      "text": "23 JULY 2013 WG reviewed and confirmed 0.3",
+      "page": 3,
+      "confidence": 8
+    },
+    {
+      "level": "H5",
+      "text": "31 MAY 2014 GA release for Agile Extension",
+      "page": 3,
+      "confidence": 10
+    },
+    {
+      "level": "H5",
+      "text": "6 NOV 2013 amended population and diagram 0.7",
+      "page": 3,
+      "confidence": 8
+    },
+    {
+      "level": "H2",
+      "text": "Revision History",
+      "page": 3,
+      "confidence": 29
+    },
+    {
+      "level": "H5",
+      "text": "Version Date Remarks 0.1",
+      "page": 3,
+      "confidence": 19
+    },
+    {
+      "level": "H5",
+      "text": "........................................................................................................................................4",
+      "page": 4,
+      "confidence": 12
+    },
+    {
+      "level": "H5",
+      "text": "1.Introduction to the Foundation Level Extensions............................................................................6 2.",
+      "page": 4,
+      "confidence": 14
+    },
+    {
+      "level": "H5",
+      "text": "Career Paths for Testers............................................................................................................7 2.3",
+      "page": 4,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "Content....................................................................................................................................10 4.",
+      "page": 4,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "Documents and Web Sites.......................................................................................................12",
+      "page": 4,
+      "confidence": 9
+    },
+    {
+      "level": "H5",
+      "text": "Intended Audience.....................................................................................................................7 2.2",
+      "page": 4,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "Introduction to Foundation Level Agile Tester Extension...............................................................7 2.1",
+      "page": 4,
+      "confidence": 21
+    },
+    {
+      "level": "H5",
+      "text": "Learning Objectives...................................................................................................................7 2.4",
+      "page": 4,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "References..........................................................................................................................................12 4.1",
+      "page": 4,
+      "confidence": 19
+    },
+    {
+      "level": "H5",
+      "text": "Revision History..........................................................................................................................................3 Table of Contents",
+      "page": 4,
+      "confidence": 17
+    },
+    {
+      "level": "H2",
+      "text": "Table of Contents",
+      "page": 4,
+      "confidence": 24
+    },
+    {
+      "level": "H5",
+      "text": "Trademarks.............................................................................................................................12 4.2",
+      "page": 4,
+      "confidence": 7
+    },
+    {
+      "level": "H2",
+      "text": "Acknowledgements",
+      "page": 5,
+      "confidence": 24
+    },
+    {
+      "level": "H5",
+      "text": "Coleman (Learning Objectives Lead), Debra Friedenberg (Exam Lead), Alon Linetzki (Business Outcomes",
+      "page": 5,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "Helmut Pichler, Salvatore Reale, Stuart Reid, Hans Rombouts, Petri Säilynoja, Soile Sainio, Lars-Erik",
+      "page": 5,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "Internal Reviewers: Mette Bruhn-Pedersen, Christopher Clements, Alessandro Collino, Debra",
+      "page": 5,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "Isles, Shirley Itah, Martin Klonk, Kjell Lauren, Igal Levi, Rik Marselis, Johan Meivert, Armin Metzger, Peter",
+      "page": 5,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "Linetzki, Tilo Linz, Leo van der Aalst, Marie Walsh, and Stephan Weber.",
+      "page": 5,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "Morgan,Ninna Morin,Ingvar Nordstrom,Chris O’Dea,Klaus Olsen, Ismo Paukamainen,Nathalie Phung,",
+      "page": 5,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "Sandberg, Dakar Shalom,  Jian Shen, Marco Sogliani, Lucjan Stapp, Yaron Tsubery, Sabine Uhde,",
+      "page": 5,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "Stephanie Ulrich, Tommi Välimäki, Jurian Van de Laar, Marnix Van den Ent, António Vieira Melo, Wenye",
+      "page": 5,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "This document was formally approved for release by the General Assembly of the ISTQB® on May 31,",
+      "page": 5,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "Xu, Ester Zabar, Wenqiang Zheng, Peter Zimmerer, Stevan Zivanovic, and Terry Zuo.",
+      "page": 5,
+      "confidence": 8
+    },
+    {
+      "level": "H2",
+      "text": "1.Introduction to the Foundation Level Extensions",
+      "page": 6,
+      "confidence": 21
+    },
+    {
+      "level": "H5",
+      "text": "ISTQB program to incorporate new or updated knowledge. New extensions shall be discussed and",
+      "page": 6,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "In this document, each Foundation Level Extension syllabus is summarized and the associated Business",
+      "page": 6,
+      "confidence": 8
+    },
+    {
+      "level": "H5",
+      "text": "Outcomes are stated. The Business Outcomes communicate what can be expected from a person who",
+      "page": 6,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "The following Foundation Level Extension syllabus has been released:",
+      "page": 6,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "achieves a Foundation Level Extension Certification in a particular subject area (e.g., Agile Tester), and",
+      "page": 6,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "introduced by the ISTQB periodically. Extensions may be established at the Advanced Level as well, but",
+      "page": 6,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "introduced for the Foundation Level, or to reflect major changes in existing ones. Publications of the",
+      "page": 6,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "level.",
+      "page": 6,
+      "confidence": 9
+    },
+    {
+      "level": "H5",
+      "text": "will outline the benefits for companies that are considering the development of specific testing skills at this",
+      "page": 6,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "1. Professionals who have achieved in-depth testing experience in traditional methods and would",
+      "page": 7,
+      "confidence": 6
+    },
+    {
+      "level": "H3",
+      "text": "2.1 Intended Audience",
+      "page": 7,
+      "confidence": 25
+    },
+    {
+      "level": "H3",
+      "text": "2.2 Career Paths for Testers",
+      "page": 7,
+      "confidence": 25
+    },
+    {
+      "level": "H3",
+      "text": "2.3 Learning Objectives",
+      "page": 7,
+      "confidence": 25
+    },
+    {
+      "level": "H2",
+      "text": "2.Introduction to Foundation Level Agile Tester Extension",
+      "page": 7,
+      "confidence": 21
+    },
+    {
+      "level": "H5",
+      "text": "3. Professionals who are relatively new to testing and are required to implement test approaches,",
+      "page": 7,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "4. Professionals who are experienced in their role (including unit testing) and need more",
+      "page": 7,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "In addition, all Foundation Level syllabus learning objectives are examinable at the same K- level in an",
+      "page": 7,
+      "confidence": 8
+    },
+    {
+      "level": "H5",
+      "text": "In general, the Foundation Level syllabus is examinable at a K1 level, i.e., the candidate will recognize,",
+      "page": 7,
+      "confidence": 8
+    },
+    {
+      "level": "H5",
+      "text": "consultants, test managers, user acceptance testers, and software developers.",
+      "page": 7,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "consultants.",
+      "page": 7,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "extension exam.",
+      "page": 7,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "like to get an Agile Tester Certificate. 2. Junior professional testers who are just starting in the testing profession, have received the",
+      "page": 7,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "managers, software development managers, business analysts, IT directors, and management",
+      "page": 7,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "methodologies specific to their role.",
+      "page": 7,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "methods and techniques in their day to day job in Agile projects.",
+      "page": 7,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "remember and recall terms and concepts stated in the Foundation Level syllabus.",
+      "page": 7,
+      "confidence": 6
+    },
+    {
+      "level": "H3",
+      "text": "2.4 Entry Requirements",
+      "page": 8,
+      "confidence": 25
+    },
+    {
+      "level": "H3",
+      "text": "2.5 Structure and Course Duration",
+      "page": 8,
+      "confidence": 25
+    },
+    {
+      "level": "H5",
+      "text": "Extension: Agile Tester 2",
+      "page": 8,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "Foundation Level.",
+      "page": 8,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "Syllabus Days Baseline: Foundation",
+      "page": 8,
+      "confidence": 19
+    },
+    {
+      "level": "H5",
+      "text": "chapter within each particular extension syllabus.",
+      "page": 8,
+      "confidence": 9
+    },
+    {
+      "level": "H3",
+      "text": "2.6 Keeping It Current",
+      "page": 9,
+      "confidence": 25
+    },
+    {
+      "level": "H5",
+      "text": "The software industry changes rapidly. To deal with these changes and to provide the stakeholders with",
+      "page": 9,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "access to relevant and current information, the ISTQB working groups have created links on the",
+      "page": 9,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "in the industry. This information is not examinable under this syllabus.",
+      "page": 9,
+      "confidence": 8
+    },
+    {
+      "level": "H3",
+      "text": "3.1 Business Outcomes",
+      "page": 10,
+      "confidence": 25
+    },
+    {
+      "level": "H3",
+      "text": "3.2 Content",
+      "page": 10,
+      "confidence": 25
+    },
+    {
+      "level": "H2",
+      "text": "3.Overview of the Foundation Level Extension –Agile Tester",
+      "page": 10,
+      "confidence": 21
+    },
+    {
+      "level": "H5",
+      "text": "AFM1 Collaborate in a cross-functional Agile team being familiar with principles and basic",
+      "page": 10,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "AFM2 Adapt existing testing experience and knowledge to Agile values and principles.",
+      "page": 10,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "AFM3 Support the Agile team in planning test-related activities.",
+      "page": 10,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "AFM4 Apply relevant methods and techniques for testing in an Agile project.",
+      "page": 10,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "AFM5 Assist the Agile team in test automation activities.",
+      "page": 10,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "AFM6 Assist business stakeholders in defining understandable and testable user stories,",
+      "page": 10,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "AFM7 Work and share information with other team members using effective communication",
+      "page": 10,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "Chapter 1: Agile Software Development The tester should remember the basic concept of Agile software development based on the Agile",
+      "page": 10,
+      "confidence": 9
+    },
+    {
+      "level": "H5",
+      "text": "In general, a Certified Tester Foundation Level –Agile Tester is expected to have acquired the necessary",
+      "page": 10,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "Manifesto. The tester should understand the advantages of the whole-team approach and the benefits of",
+      "page": 10,
+      "confidence": 7
+    },
+    {
+      "level": "H2",
+      "text": "Syllabus",
+      "page": 10,
+      "confidence": 29
+    },
+    {
+      "level": "H5",
+      "text": "The tester should know the differences between iteration and release planning, and how a tester",
+      "page": 10,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "adds value in each of these activities. Version 2014",
+      "page": 10,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "improvement in Agile projects. The tester should understand the use and purpose of continuous integration.",
+      "page": 10,
+      "confidence": 9
+    },
+    {
+      "level": "H5",
+      "text": "Chapter 2: Fundamental Agile Testing Principles, Practices, and Processes",
+      "page": 11,
+      "confidence": 9
+    },
+    {
+      "level": "H5",
+      "text": "Chapter 3: Agile Testing Methods, Techniques, and Tools",
+      "page": 11,
+      "confidence": 9
+    },
+    {
+      "level": "H5",
+      "text": "The tester should be able to perform exploratory testing to support the testing of an Agile project.",
+      "page": 11,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "The tester should be able to recall different tools available to testers according to their purpose",
+      "page": 11,
+      "confidence": 6
+    },
+    {
+      "level": "H5",
+      "text": "and to activities in Agile projects.",
+      "page": 11,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "black box test design techniques based on given user stories.",
+      "page": 11,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "cases. For both functional and non-functional behavior, the tester should be able to write test cases using",
+      "page": 11,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "criteria. Given a user story, the tester should be able to write acceptance test-driven development test",
+      "page": 11,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "driven development, and behavior-driven development. The tester should be able to recall the concepts of the test pyramid.",
+      "page": 11,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "levels and testing types. For a given Agile project, the tester should be able to work as a tester in a Scrum team.",
+      "page": 11,
+      "confidence": 7
+    },
+    {
+      "level": "H3",
+      "text": "4.1 Trademarks",
+      "page": 12,
+      "confidence": 25
+    },
+    {
+      "level": "H3",
+      "text": "4.2 Documents and Web Sites",
+      "page": 12,
+      "confidence": 25
+    },
+    {
+      "level": "H2",
+      "text": "4.References",
+      "page": 12,
+      "confidence": 21
+    },
+    {
+      "level": "H5",
+      "text": "Identifiereference [ISTQB-Web]",
+      "page": 12,
+      "confidence": 21
+    },
+    {
+      "level": "H5",
+      "text": "Web site of the International Software Testing Qualifications Board. Refer",
+      "page": 12,
+      "confidence": 7
+    },
+    {
+      "level": "H5",
+      "text": "is a registered trademark of the International Software Testing Qualifications Board ISTQB",
+      "page": 12,
+      "confidence": 6
+    }
+  ],
+  "source": "content_analysis",
+  "method": "enhanced_extraction",
+  "stats": {
+    "total_spans": 446,
+    "heading_fonts_found": 8,
+    "unique_font_sizes": 8,
+    "pages_analyzed": 12
+  }
+}
